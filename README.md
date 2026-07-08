@@ -137,8 +137,10 @@ The dashboard includes:
 - Competitor Market Share
 - Resolution Days vs Satisfaction Score
   <img width="2004" height="1071" alt="image" src="https://github.com/user-attachments/assets/3a2bddda-8426-499a-a541-7d31efe6ba22" />
+
   
   <img width="2000" height="1126" alt="image" src="https://github.com/user-attachments/assets/005d5dc1-c86c-4801-ad63-14c9d224c0f9" />
+
   
   <img width="2003" height="1125" alt="image" src="https://github.com/user-attachments/assets/54dec5bf-6b19-4b36-badb-a6725f436863" />
 
