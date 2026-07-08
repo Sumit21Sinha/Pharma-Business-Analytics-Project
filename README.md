@@ -136,13 +136,13 @@ The dashboard includes:
 - Stock vs Damaged Inventory
 - Competitor Market Share
 - Resolution Days vs Satisfaction Score
-  <img width="2004" height="1071" alt="image" src="https://github.com/user-attachments/assets/3a2bddda-8426-499a-a541-7d31efe6ba22" />
+  
 
   
-  <img width="2000" height="1126" alt="image" src="https://github.com/user-attachments/assets/005d5dc1-c86c-4801-ad63-14c9d224c0f9" />
+ 
 
   
-  <img width="2003" height="1125" alt="image" src="https://github.com/user-attachments/assets/54dec5bf-6b19-4b36-badb-a6725f436863" />
+ 
 
 
 
@@ -154,12 +154,17 @@ The dashboard includes:
 Some major insights derived from the analysis:
 
 - Delhi contributes the highest sales revenue.
+  <img width="2004" height="1071" alt="image" src="https://github.com/user-attachments/assets/3a2bddda-8426-499a-a541-7d31efe6ba22" />
+  
 - Product sales are fairly balanced across the portfolio.
+  <img width="2000" height="1126" alt="image" src="https://github.com/user-attachments/assets/005d5dc1-c86c-4801-ad63-14c9d224c0f9" />
+  
 - Competitor A holds approximately 55% market share.
 - Satisfaction Score shows no strong linear relationship with Resolution Days.
 - Return Rate is approximately 8%.
 - Delivery is the most common complaint category.
 - Around 25–30 Medical Representatives contribute significantly more revenue than the remaining workforce.
+  <img width="2003" height="1125" alt="image" src="https://github.com/user-attachments/assets/54dec5bf-6b19-4b36-badb-a6725f436863" />
 
 ---
 
